@@ -35,5 +35,5 @@ https://github.com/rshea4-hub/DTSC-2301/blob/main/Project1Submission.ipynb
 References & AI Use Transparency
 Dataset link: Student Performance Data Set
 In creating this project, I repeatedly googled python functions (dropping columns, ALL the code to make grouped bar charts, that was awful, labeling box plots, etc.) and relied on ChatGPT for grammar and structure (i.e. reorganizing sentences in a paragraph for coherence).
-ChatGPT conversation: Project Planning for Data Science
+ChatGPT conversation:(https://chatgpt.com/c/699c992f-1870-832c-a67a-7d8a16de7276)
 
